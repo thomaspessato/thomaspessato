@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! My current mission is to enhance the world of data analytics with frontend technologies :)
 
 <div align="center">
   <a href="https://github.com/thomaspessato">
